@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Lazurite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Lazurite.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Lazurite.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Lazurite.jar!/" />
+    </SOURCES>
+  </library>
+</component>
