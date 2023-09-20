@@ -3,7 +3,7 @@
 </div>
 
 ## Combiobin
-A tool that helps you run code in the Lazurite programming language in a jar or exe file.
+A tool that helps you run code in the <a href="https://github.com/ArtyomKingmang/Lazurite">Lazurite Programming language</a> in a jar or exe file.
 To use Combiobi, you need to go to the Releases tab and download the files:
 
 ```java
