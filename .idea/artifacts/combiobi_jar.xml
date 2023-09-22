@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="combiobi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/combiobi_jar</output-path>
+    <root id="archive" name="combiobi.jar">
+      <element id="module-output" name="combiobi" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Lazurite.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
